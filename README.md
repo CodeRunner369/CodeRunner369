@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=NAMAN%20DUBEY&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20C%2B%2B%20and%20DSA%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=PARAS%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20C%2B%2B%20and%20DSA%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
@@ -18,24 +17,24 @@
 
 <br/><br/>
 
-<a href="https://github.com/CodeRunner369">
+<a href="https://github.com/parasjn89">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/naman-dubey-58a95a284/">
+<a href="https://www.linkedin.com/in/paras-jain-7a1213274">
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:namand369@gmail.com">
+<a href="mailto:">
 <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/CodeRunner369">
+<a href="https://github.com/parasjn89">
 <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=CodeRunner369&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/CodeRunner369?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
-<img src="https://img.shields.io/github/stars/CodeRunner369?label=STARS&style=for-the-badge&color=312E81"/>
+<img src="https://komarev.com/ghpvc/?username=parasjn89&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/parasjn89?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/parasjn89?label=STARS&style=for-the-badge&color=312E81"/>
 
 </div>
 
@@ -143,7 +142,6 @@ A full-stack platform designed to streamline the process of reporting, discoveri
 **Core Skills:** `React` `Node.js` `Express` `MongoDB` `REST API` `JWT` `Tailwind CSS`
 
 </details>
-
 <details>
 <summary><strong>Journal — Full-Stack Blogging Platform</strong></summary>
 
@@ -156,26 +154,32 @@ A full-stack blogging platform designed for creating, managing, and reading blog
 <th>Attribute</th>
 <th>Details</th>
 </tr>
+
 <tr>
 <td><strong>Stack</strong></td>
 <td>React · Vite · Express.js · Sequelize · PostgreSQL</td>
 </tr>
+
 <tr>
 <td><strong>Scale</strong></td>
 <td>Full-stack web application architecture</td>
 </tr>
+
 <tr>
 <td><strong>Backend</strong></td>
 <td>RESTful APIs · Express.js · Sequelize</td>
 </tr>
+
 <tr>
 <td><strong>Database</strong></td>
 <td>PostgreSQL</td>
 </tr>
+
 <tr>
 <td><strong>Frontend</strong></td>
 <td>React · Vite</td>
 </tr>
+
 <tr>
 <td><strong>Repository</strong></td>
 <td><a href="https://github.com/parasjn89/journal">GitHub</a></td>
@@ -194,7 +198,6 @@ A full-stack blogging platform designed for creating, managing, and reading blog
 <strong>Core Skills:</strong> React · Vite · Express.js · Sequelize · PostgreSQL · REST API
 
 </details>
-
 <details>
 <summary><strong>FocusLens — AI-Powered Focus & Productivity Monitor</strong> 🚧</summary>
 
@@ -207,30 +210,37 @@ A privacy-first AI productivity application that analyzes focus and study activi
 <th>Attribute</th>
 <th>Details</th>
 </tr>
+
 <tr>
 <td><strong>Status</strong></td>
 <td>🚧 In Development</td>
 </tr>
+
 <tr>
 <td><strong>Stack</strong></td>
 <td>React · Fastify · PostgreSQL · Drizzle ORM</td>
 </tr>
+
 <tr>
 <td><strong>AI / Vision</strong></td>
 <td>MediaPipe · Browser-based computer vision · Web Audio API</td>
 </tr>
+
 <tr>
 <td><strong>Architecture</strong></td>
 <td>Client-side AI processing + REST API + PostgreSQL</td>
 </tr>
+
 <tr>
 <td><strong>Security</strong></td>
 <td>HTTP-only authentication · IDOR protection · Privacy Guard</td>
 </tr>
+
 <tr>
 <td><strong>Privacy</strong></td>
 <td>Raw webcam, screen and audio data never leaves the device</td>
 </tr>
+
 <tr>
 <td><strong>Repository</strong></td>
 <td><a href="https://github.com/parasjn89/Focus-Lens">GitHub</a></td>
@@ -264,7 +274,7 @@ A growing portfolio of AI/ML experiments and applications focused on understandi
 | **Performance** | Model-oriented experimentation and iterative optimization |
 | **Security** | API-aware architecture and responsible data handling |
 | **Impact** | Practical exploration of AI-assisted software development |
-| **Repository** | [GitHub](https://github.com/CodeRunner369) |
+| **Repository** | [GitHub](https://github.com/parasjn89) |
 
 ### Engineering Scope
 
@@ -278,6 +288,7 @@ A growing portfolio of AI/ML experiments and applications focused on understandi
 **Core Skills:** `Python` `Machine Learning` `Generative AI` `APIs` `AI Engineering`
 
 </details>
+
 
 <details>
 <summary><strong>Data Structures & Algorithms Practice</strong></summary>
@@ -293,7 +304,7 @@ A structured problem-solving journey focused on developing strong algorithmic fu
 | **Performance** | Complexity-driven problem solving |
 | **Security** | N/A |
 | **Impact** | Stronger algorithmic reasoning and engineering fundamentals |
-| **Repository** | [GitHub](https://github.com/CodeRunner369) |
+| **Repository** | [GitHub](https://github.com/parasjn89) |
 
 ### Engineering Scope
 
@@ -364,7 +375,7 @@ Focused on developing practical software engineering capabilities through struct
 
 <div align="center">
 
-<a href="https://leetcode.com/u/ND_07">
+<a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -395,6 +406,7 @@ Focused on developing practical software engineering capabilities through struct
 
 <br/><br/>
 
+
 </div>
 
 ---
@@ -424,7 +436,7 @@ Focused on developing practical software engineering capabilities through struct
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CodeRunner369/CodeRunner369/main/profile/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/parasjn89/parasjn89/main/profile/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -462,4 +474,3 @@ Open To:
   - Open Source Collaboration
   - Hackathons
   - High-Impact Engineering Projects
-```
