@@ -1,16 +1,465 @@
-## Hi there 👋
 
-<!--
-**CodeRunner369/CodeRunner369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=NAMAN%20DUBEY&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20C%2B%2B%20and%20DSA%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Systems;Engineering+AI-Powered+Products;Full+Stack+Development;Data+Structures+%26+Algorithms;Turning+Ideas+Into+Production-Ready+Products">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Systems;Engineering+AI-Powered+Products;Full+Stack+Development;Data+Structures+%26+Algorithms;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graduating-2027-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-312E81?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Indore%2C%20Madhya Pradesh-India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/CodeRunner369">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/naman-dubey-58a95a284/">
+<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:namand369@gmail.com">
+<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/CodeRunner369">
+<img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=CodeRunner369&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/CodeRunner369?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/CodeRunner369?label=STARS&style=for-the-badge&color=312E81"/>
+
+</div>
+
+---
+
+## About
+
+I am a **Computer Science & Engineering student** focused on becoming a high-impact software engineer by combining strong fundamentals with practical product development.
+
+My engineering interests span **software engineering, artificial intelligence, machine learning, full-stack development, system design, and data structures & algorithms**.
+
+I enjoy taking problems from **idea → architecture → implementation → deployment**, with an emphasis on maintainable code, scalable systems, security, performance, and user experience.
+
+I am particularly interested in building intelligent software products where **AI/ML capabilities are integrated into reliable production systems**, rather than treated as isolated experiments.
+
+### Engineering Focus
+
+- **Software Engineering** — Data Structures, Algorithms, OOP, Problem Solving
+- **AI / ML** — Machine Learning, Generative AI, AI-powered applications
+- **Full Stack Development** — React, Node.js, Express, REST APIs
+- **Backend Engineering** — API design, authentication, databases, scalable services
+- **Product Engineering** — Turning real-world problems into usable software
+- **Cloud & DevOps** — Deployment, Git, CI/CD fundamentals, cloud technologies
+- **Engineering Mindset** — Clean architecture, security, performance, maintainability
+
+### Open To
+
+`Software Engineering Internships` · `AI/ML Internships` · `Full Stack Roles` · `Open Source` · `Hackathons` · `Collaborative Engineering Projects`
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | 🟣 Developing | Core ML concepts, supervised learning, model fundamentals |
+| Python for AI/ML | 🟣 Developing | Python foundations and ML-oriented programming |
+| Generative AI | 🟣 Developing | LLM concepts, AI application development and prompting |
+| AI Application Development | 🟣 Developing | Integrating AI capabilities into software products |
+| Data Analysis | 🟣 Developing | Data preprocessing, exploration and analytical thinking |
+| Neural Networks | 🔵 Learning | Fundamentals of deep learning and neural network architectures |
+| Computer Vision | 🔵 Learning | Exploring vision-based AI applications |
+| NLP | 🔵 Learning | Exploring natural language processing and LLM systems |
+| MLOps | 🔵 Exploring | Learning model deployment and production ML workflows |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>ReclaimIt — Smart Lost & Found Web Application</strong></summary>
+
+<br/>
+
+A full-stack platform designed to streamline the process of reporting, discovering, and recovering lost items through a centralized digital workflow.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React · Tailwind CSS · Node.js · Express · MongoDB |
+| **Scale** | Full-stack web application architecture |
+| **Performance** | RESTful APIs · Efficient database operations · Responsive UI |
+| **Security** | JWT Authentication · Protected API routes · Input validation |
+| **Impact** | Digitizes lost-and-found workflows and improves item discovery |
+| **Repository** | [GitHub](https://github.com/parasjn89/Project-ReclaimIt) |
+
+### Engineering Scope
+
+- Designed a component-based React frontend.
+- Built REST APIs using Node.js and Express.
+- Implemented MongoDB-backed data persistence.
+- Added authentication and authorization workflows.
+- Structured the application using a scalable three-tier architecture.
+- Integrated cloud-based services for application functionality.
+- Focused on responsive UX and maintainable component architecture.
+- Designed the system around real-world usability rather than a demonstration-only workflow.
+
+**Core Skills:** `React` `Node.js` `Express` `MongoDB` `REST API` `JWT` `Tailwind CSS`
+
+</details>
+
+<details>
+<summary><strong>Journal — Full-Stack Blogging Platform</strong></summary>
+
+<br/>
+
+A full-stack blogging platform designed for creating, managing, and reading blog posts through a modern web application.
+
+<table>
+<tr>
+<th>Attribute</th>
+<th>Details</th>
+</tr>
+<tr>
+<td><strong>Stack</strong></td>
+<td>React · Vite · Express.js · Sequelize · PostgreSQL</td>
+</tr>
+<tr>
+<td><strong>Scale</strong></td>
+<td>Full-stack web application architecture</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>RESTful APIs · Express.js · Sequelize</td>
+</tr>
+<tr>
+<td><strong>Database</strong></td>
+<td>PostgreSQL</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React · Vite</td>
+</tr>
+<tr>
+<td><strong>Repository</strong></td>
+<td><a href="https://github.com/parasjn89/journal">GitHub</a></td>
+</tr>
+</table>
+
+### Engineering Scope
+
+- Built a full-stack blogging platform with separate frontend and backend.
+- Developed REST APIs using Express.js.
+- Implemented database operations using Sequelize and PostgreSQL.
+- Built the frontend using React and Vite.
+- Structured the application into maintainable frontend and backend layers.
+- Implemented core blogging functionality for creating and managing posts.
+
+<strong>Core Skills:</strong> React · Vite · Express.js · Sequelize · PostgreSQL · REST API
+
+</details>
+
+<details>
+<summary><strong>FocusLens — AI-Powered Focus & Productivity Monitor</strong> 🚧</summary>
+
+<br/>
+
+A privacy-first AI productivity application that analyzes focus and study activity while keeping raw webcam, screen, and audio data on the user's device.
+
+<table>
+<tr>
+<th>Attribute</th>
+<th>Details</th>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td>🚧 In Development</td>
+</tr>
+<tr>
+<td><strong>Stack</strong></td>
+<td>React · Fastify · PostgreSQL · Drizzle ORM</td>
+</tr>
+<tr>
+<td><strong>AI / Vision</strong></td>
+<td>MediaPipe · Browser-based computer vision · Web Audio API</td>
+</tr>
+<tr>
+<td><strong>Architecture</strong></td>
+<td>Client-side AI processing + REST API + PostgreSQL</td>
+</tr>
+<tr>
+<td><strong>Security</strong></td>
+<td>HTTP-only authentication · IDOR protection · Privacy Guard</td>
+</tr>
+<tr>
+<td><strong>Privacy</strong></td>
+<td>Raw webcam, screen and audio data never leaves the device</td>
+</tr>
+<tr>
+<td><strong>Repository</strong></td>
+<td><a href="https://github.com/parasjn89/Focus-Lens">GitHub</a></td>
+</tr>
+</table>
+
+### Current Focus
+
+- Building browser-based focus and activity detection.
+- Implementing privacy-first local media processing.
+- Developing focus session tracking and analytics.
+- Building authentication and secure REST APIs.
+- Integrating PostgreSQL with Drizzle ORM.
+- Improving reliability with offline session caching.
+
+<strong>Core Skills:</strong> React · Fastify · PostgreSQL · Drizzle ORM · MediaPipe · REST API · Computer Vision
+
+</details>
+
+<details>
+<summary><strong>AI-Powered Software Engineering Projects</strong></summary>
+
+<br/>
+
+A growing portfolio of AI/ML experiments and applications focused on understanding how intelligent models can be incorporated into practical software products.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · AI/ML · Generative AI · APIs |
+| **Scale** | Application-level AI experimentation |
+| **Performance** | Model-oriented experimentation and iterative optimization |
+| **Security** | API-aware architecture and responsible data handling |
+| **Impact** | Practical exploration of AI-assisted software development |
+| **Repository** | [GitHub](https://github.com/CodeRunner369) |
+
+### Engineering Scope
+
+- Exploring machine learning fundamentals.
+- Building familiarity with Python-based AI workflows.
+- Experimenting with Generative AI applications.
+- Studying model behavior, evaluation and practical integration.
+- Connecting AI capabilities with conventional software engineering.
+- Learning production-oriented AI architecture and deployment patterns.
+
+**Core Skills:** `Python` `Machine Learning` `Generative AI` `APIs` `AI Engineering`
+
+</details>
+
+<details>
+<summary><strong>Data Structures & Algorithms Practice</strong></summary>
+
+<br/>
+
+A structured problem-solving journey focused on developing strong algorithmic fundamentals for software engineering interviews and competitive programming.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | C++ · STL · Algorithms |
+| **Scale** | Continuous interview preparation |
+| **Performance** | Complexity-driven problem solving |
+| **Security** | N/A |
+| **Impact** | Stronger algorithmic reasoning and engineering fundamentals |
+| **Repository** | [GitHub](https://github.com/CodeRunner369) |
+
+### Engineering Scope
+
+- Arrays and fundamental data structures.
+- Algorithmic problem solving.
+- Time and space complexity analysis.
+- C++ Standard Template Library.
+- Searching and sorting techniques.
+- Progressive preparation for technical interviews.
+- Transitioning from guided learning toward independent problem solving.
+
+**Core Skills:** `C++` `DSA` `STL` `Problem Solving` `Complexity Analysis`
+
+</details>
+
+---
+
+## Experience
+
+### Software Engineering & Technology Internships
+
+**2025 — Present**
+
+Focused on developing practical software engineering capabilities through structured internship programs, virtual experiences, technical projects and hands-on engineering work.
+
+#### Scope of Work
+
+- Applied software engineering concepts to practical development environments.
+- Worked with modern development tools and collaborative workflows.
+- Strengthened understanding of APIs, databases and application architecture.
+- Explored AI/ML technologies and their integration into software products.
+- Built projects to translate theoretical knowledge into demonstrable engineering outcomes.
+- Continuously improved problem-solving and technical interview readiness.
+
+**Skills:** `Software Engineering` `C++` `Python` `JavaScript` `React` `Node.js` `MongoDB` `Git` `AI/ML`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **Hackathon Organizer** | Helped organize a college hackathon involving approximately **200 teams** |
+| **Technical Development** | Built and maintained full-stack software projects using modern web technologies |
+| **AI/ML Learning** | Completed structured AI/ML and Generative AI learning programs |
+| **Software Engineering** | Developing strong foundations in DSA, backend engineering and full-stack development |
+| **Leadership & Coordination** | Contributed to college technical and entrepreneurship initiatives |
+
+</div>
+
+---
+
+## Certifications
+
+### NPTEL — Generative AI
+
+<img src="https://img.shields.io/badge/NPTEL-Generative%20AI-4C1D95?style=flat-square&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Currently%20Pursuing-7C3AED?style=flat-square"/>
+
+### Additional Programs
+
+- Google AI/ML Virtual Internship
+- JPMorgan Chase Software Engineering Virtual Experience
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ND_07">
+<img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-312E81?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-4338CA?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+</p>
+
+<br/><br/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
+</p>
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="./profile/activity.svg" width="100%" alt="Contribution Activity"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/CodeRunner369/CodeRunner369/main/profile/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Advanced C++
+  - Python for AI/ML
+  - Machine Learning Fundamentals
+  - Generative AI
+  - System Design Fundamentals
+
+Building:
+  - Full Stack Web Applications
+  - AI-Powered Software Products
+  - Production-Oriented Backend Systems
+  - Portfolio Projects
+
+Exploring:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Engineering
+  - DevOps
+  - Scalable System Architecture
+  - Open Source
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Internships
+  - Full Stack Engineering Opportunities
+  - Open Source Collaboration
+  - Hackathons
+  - High-Impact Engineering Projects
+```
